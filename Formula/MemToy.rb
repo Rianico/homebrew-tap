@@ -1,4 +1,4 @@
-class MemToy < Formula
+class memtoy < Formula
   desc "Rianico's memorization toy tool.'"
   homepage "https://github.com/Rianico/MemToy"
   url "https://github.com/Rianico/MemToy/releases/download/0.2.0/MemToy.dmg"
