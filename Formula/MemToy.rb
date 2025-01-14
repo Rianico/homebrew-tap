@@ -2,8 +2,8 @@ class Memtoy < Formula
   desc "Rianico's memorization toy tool.'"
   homepage "https://github.com/Rianico/MemToy"
   url "https://github.com/Rianico/MemToy/releases/download/0.2.0/MemToy.dmg"
-  sha256 "dad5e8e0a070ad9df8ec5be005137f7ea80036a04fba7737fc31922ebfa229ba"
-  version "0.2.0"
+  sha256 "4582a64d590016beed5872ca2d809a743911e8b6fb529d1dea8babdbe81925d9"
+  version "0.2.1"
 
   def install
     bin.install "MemToy"
