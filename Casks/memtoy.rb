@@ -8,4 +8,5 @@ cask "memtoy" do
   homepage "https://github.com/Rianico/MemToy"
 
   app "MemToy.app", target: "~/Applications/MemToy.app"
+  icon "memtoy.icns"
 end
