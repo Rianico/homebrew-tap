@@ -1,6 +1,6 @@
 cask "memtoy" do
-  version "1.1.0"
-  sha256 "996b52d8c7d15d2f8dbd05bc2eeccd29d7d9e781c39bf5239af95f6b9ccbed54"
+  version "1.1.1"
+  sha256 "ad5c139e7a64c4f2d2d4a339152e901d6ad6527c078c3451e65dac5e0843d94d"
 
   url "https://github.com/Rianico/MemToy/releases/download/#{version}/MemToy_#{version}_aarch64.dmg"
   name "MemToy"
